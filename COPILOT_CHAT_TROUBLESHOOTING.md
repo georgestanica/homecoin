@@ -11,7 +11,7 @@ You see this error message in VS Code:
 First, ensure you're properly signed in to GitHub in VS Code:
 
 1. Open VS Code
-2. Click on the **Accounts** icon in the bottom left corner (or press `Ctrl+Shift+P` / `Cmd+Shift+P`)
+2. Click on the **Accounts** icon in the bottom left corner (person icon)
 3. Look for your GitHub account
 4. If not signed in:
    - Click **Sign in with GitHub**
