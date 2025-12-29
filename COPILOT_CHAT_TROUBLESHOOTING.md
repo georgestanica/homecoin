@@ -43,7 +43,7 @@ After verifying authentication and extensions:
 
 Ensure your GitHub account has an active Copilot subscription:
 
-1. Go to [github.com/settings/copilot](https://github.com/settings/copilot)
+1. Go to [https://github.com/settings/copilot](https://github.com/settings/copilot)
 2. Verify your subscription is active
 3. If expired or not subscribed:
    - Follow the prompts to start a trial or subscribe
@@ -125,7 +125,7 @@ Force a fresh authentication:
 
 If none of these solutions work:
 
-1. **Check GitHub Status**: Visit [githubstatus.com](https://www.githubstatus.com) to see if Copilot services are experiencing issues
+1. **Check GitHub Status**: Visit [https://www.githubstatus.com](https://www.githubstatus.com) to see if Copilot services are experiencing issues
 2. **Report the Issue**: Open an issue on the [Copilot feedback repository](https://github.com/community/community/discussions/categories/copilot)
 3. **Include Details**: When reporting, include:
    - VS Code version (`Help` → `About`)
